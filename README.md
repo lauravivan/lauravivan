@@ -9,9 +9,11 @@
   <img align="center" alt="Laura-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="HA-Unicorny" height="190" width="190" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
 </div>
+ 
+ ##
 
 <div>
-
+ 
   ![Snake animation](https://github.com/b20w-Laura/b20w-Laura/blob/output/github-contribution-grid-snake.svg)
   
 </div>
