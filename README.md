@@ -10,8 +10,6 @@
   <img align="right" alt="Rafa-yoda" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
 </div>
   
-  ##
-  
 <div>
 
   ![Snake animation](https://github.com/b20w-Laura/b20w-Laura/blob/output/github-contribution-grid-snake.svg)
