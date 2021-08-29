@@ -3,10 +3,11 @@
   <a href="https://github.com/lauravivan">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lauravivan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravivan&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Hora-de-aventura-gif" height="150" width="150" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
 </div>
  
  ##
+  
+<img align="right" alt="Hora-de-aventura-gif" height="150" width="150" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
  
 <div style="display: inline_block"><br>
   <img align="center" alt="ícone-Java" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
