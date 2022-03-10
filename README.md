@@ -10,10 +10,10 @@
 <img align="right" alt="Hora-de-aventura-gif" height="150" width="150" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
  
 <div style="display: inline_block"><br>
+  <img align="center" alt="ícone-Python" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ícone-HTML" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ícone-CSS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ícone-javascript" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ícone-Python" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
  ## 
