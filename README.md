@@ -22,10 +22,5 @@ I participated in a university extension project to build a web application auto
 
 ## My stats and most used languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=lauravivan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravivan&layout=compact&langs_count=7&theme=dark" alt="Most used languages">
- 
-### Where you can find me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivan-laura)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauvivang@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=lauravivan&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true" alt="Github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravivan&layout=compact&langs_count=7&theme=moltack" alt="Most used languages">
