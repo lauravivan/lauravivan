@@ -1,24 +1,11 @@
 # Hi! I'm Laura ☃️
 
 ## About me
-🐈 Currently studying Information Systems at Instituto Federal de Santa Catarina (IFSC).
+- Currently studying Information Systems at Instituto Federal de Santa Catarina (IFSC).
 
-🐈 Participated in a university extension project to build a web application automating the triage process in health centers and hospitals, using the Django Framework.
+- Participated in a university extension project to build a web application automating the triage process in health centers and hospitals, using the Django Framework.
 
-🐈 Nowadays diving into the Web Development universe to become a Full-stack web developer.
-
-## Stack
-### Programming Languages
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-
-### Tools
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
-![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+- Nowadays diving into the Web Development universe to become a Full-stack web developer.
 
 ## Portfolio
 I've created a Notion-based portfolio to showcase my projects and personal information.
