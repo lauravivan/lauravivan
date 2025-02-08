@@ -1,11 +1,15 @@
 # Hi! I'm Laura ☃️
 
 ## About me
-- Currently studying Information Systems at Instituto Federal de Santa Catarina (IFSC).
+🎓 Currently studying Information Systems at Instituto Federal de Santa Catarina (IFSC).
 
-- Participated in a university extension project to build a web application automating the triage process in health centers and hospitals, using the Django Framework.
+🩺 Participated in a university extension project to develop a web application that automates the triage process in health centers and hospitals using the Django framework.
 
-- Nowadays diving into the Web Development universe to become a Full-stack web developer.
+👩‍🦯‍➡️ Currently developing a web system to simplify the understanding of WCAG accessibility guidelines. The system will also implement some of these guidelines, improving accessibility for a portion of users.
+
+💵 Additionally, I’m developing a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API.
+
+🦊 In my personal projects, I built a portfolio using Notion as a base, leveraging the Vue.js framework. I also start small projects to improve my skills in React.js and TypeScript.
 
 ## Portfolio
 I've created a Notion-based portfolio to showcase my projects and personal information.
