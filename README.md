@@ -9,7 +9,7 @@
 
 💵 Additionally, I’m developing a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API.
 
-🦊 In my personal projects, I built a portfolio using Notion as a base, leveraging the Vue.js framework. I also start small projects to improve my skills in React.js and TypeScript.
+🦊 In my personal projects, I built a portfolio using Notion as a base, leveraging the Vue.js framework. I also started small projects to improve my skills in React.js and TypeScript.
 
 ## Portfolio
 I've created a Notion-based portfolio to showcase my projects and personal information.
