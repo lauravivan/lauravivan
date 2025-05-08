@@ -7,7 +7,7 @@
 
 👩‍🦯‍➡️ Currently developing a web system to simplify the understanding of WCAG accessibility guidelines. The system will also implement some of these guidelines, improving accessibility for a portion of users.
 
-💵 Additionally, I’m developing a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API.
+💵 Additionally, as a freelancer, I developed a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API.
 
 🦊 In my personal projects, I built a portfolio using Notion as a base, leveraging the Vue.js framework. I also started small projects to improve my skills in React.js and TypeScript.
 
