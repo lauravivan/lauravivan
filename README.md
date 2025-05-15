@@ -27,7 +27,7 @@ Technical Design Document: [TDD Acessiweb](https://kind-parent-217.notion.site/T
 
 ## Contact me
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vivan-laura/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vivan-laura/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/lauvivan.bsky.social)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/vivanlaura)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lauvivang@gmail.com)
