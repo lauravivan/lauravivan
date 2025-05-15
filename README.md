@@ -11,16 +11,26 @@
 
 🦊 In my personal projects, I built a portfolio using Notion as a base, leveraging the Vue.js framework. I also started small projects to improve my skills in React.js and TypeScript.
 
-## Portfolio
+## My projects
+
+### 🦕 Portfolio
 I've created a Notion-based portfolio to showcase my projects and personal information.
 
 Access link: [Notion portfolio](https://notionportfolio.vercel.app/)
 
-## Acessiweb
+### 👩🏼‍🦽 Acessiweb
 I'm building a Full-Stack application for my Information Systems course's final project.
 
 Access link: [Acessiweb](https://acessiweb.vercel.app/)
-Technical Design Document link: [TDD Acessiweb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
+
+Technical Design Document: [TDD Acessiweb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
+
+## Contact me
+
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vivan-laura/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/lauvivan.bsky.social)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/vivanlaura)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lauvivang@gmail.com)
 
 <div>
   <img alt="Hora-de-aventura-gif" height="150" width="150" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
