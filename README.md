@@ -31,6 +31,7 @@ Technical Design Document: [TDD Acessiweb](https://kind-parent-217.notion.site/T
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/lauvivan.bsky.social)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/vivanlaura)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lauvivang@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/arualvivan)
 
 <div>
   <img alt="Hora-de-aventura-gif" height="150" width="150" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
