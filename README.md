@@ -1,7 +1,7 @@
 # Hi! I'm Laura ☃️
 
 ## About me
-🎓 Currently studying Information Systems at Instituto Federal de Santa Catarina (IFSC).
+🎓 Information Systems graduate at Instituto Federal de Santa Catarina (IFSC).
 
 🩺 Participated in a university extension project to develop a web application that automates the triage process in health centers and hospitals using the Django framework.
 
