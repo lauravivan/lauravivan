@@ -5,7 +5,7 @@
 
 🩺 Participated in a university extension project to develop a web application that automates the triage process in health centers and hospitals using the Django framework.
 
-👩‍🦯‍➡️ Currently developing a web system to simplify the understanding of WCAG accessibility guidelines. The system will also implement some of these guidelines, improving accessibility for a portion of users.
+👩‍🦯‍➡️ Developed a web system to simplify the understanding of WCAG accessibility guidelines. The system also implements some of these guidelines, improving accessibility for a portion of users.
 
 💵 Additionally, as a freelancer, I developed a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API. Also participated in the development of Estudos Arquivados project, a website using arquivo.pt API to filter results based on Portuguese students’ academic year and their corresponding subjects. This project utilizes OpenAI’s LLM to identify words and expressions related to the user’s input and apply them as filters in the API to achieve more accurate results.
 
