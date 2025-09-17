@@ -16,14 +16,24 @@
 ### 🦕 Portfolio
 I've created a Notion-based portfolio to showcase my projects and personal information.
 
-Access link: [Notion portfolio](https://notionportfolio.vercel.app/)
+Access link: [Notion portfolio](https://arualvivan.com/)
 
 ### 👩🏼‍🦽 Acessiweb
-I'm building a Full-Stack application for my Information Systems course's final project.
+I built a Full-Stack application for my Information Systems course's final project.
 
-Access link: [Acessiweb](https://acessiweb.vercel.app/)
+Access link: [Acessiweb](https://acessiweb.arualvivan.com/)
 
 Technical Design Document: [TDD Acessiweb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
+
+### 🗓️ Countdown
+I built a place to take track of important dates.
+
+Access link: [Countdown](https://countdown.arualvivan.com)
+
+### 🐈‍⬛ TrendTide
+I built a type of social media
+
+Access link: [TrendTide](https://trendtide.arualvivan.com/)
 
 ## Contact me
 
