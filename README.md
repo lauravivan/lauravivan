@@ -13,24 +13,20 @@
 
 ## My projects
 
-### [My portfolio](https://arualvivan.com)
+### 🍁 [My portfolio](https://arualvivan.com)
 
-### 🦕 Portfolio
-I've created a Notion-based portfolio to showcase my projects and personal information.
+Here you can find all the highlights of my academic and professional journey. 
+It's a Notion-based plataform. 
 
-Access link: [Notion portfolio](https://arualvivan.com/)
+### 👩🏼‍🦽 [Acessiweb](https://acessiweb.vercel.app/)
 
-### 👩🏼‍🦽 Acessiweb
-I built a Full-Stack application for my Information Systems course's final project.
-
-Access link: [Acessiweb](https://acessiweb.arualvivan.com/)
+AcessiWeb is a web plataform that reunites a few acessibility guidelines in a easy and friendly way, making it easier for you developer to access and have knowledge of the necessary guidelines for your web projects. 
 
 Technical Design Document: [TDD Acessiweb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
 
-### 🗓️ Countdown
-I built a place to take track of important dates.
+### 🗓️ [Tokyuu](https://countdown.arualvivan.com)
 
-Access link: [Countdown](https://countdown.arualvivan.com)
+Take track of important dates :)
 
 ## Contact me
 
