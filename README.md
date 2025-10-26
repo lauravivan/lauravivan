@@ -13,6 +13,8 @@
 
 ## My projects
 
+### [My portfolio](https://arualvivan.com)
+
 ### 🦕 Portfolio
 I've created a Notion-based portfolio to showcase my projects and personal information.
 
