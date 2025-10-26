@@ -30,11 +30,6 @@ I built a place to take track of important dates.
 
 Access link: [Countdown](https://countdown.arualvivan.com)
 
-### 🐈‍⬛ TrendTide
-I built a type of social media
-
-Access link: [TrendTide](https://trendtide.arualvivan.com/)
-
 ## Contact me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vivan-laura/)
