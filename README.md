@@ -13,9 +13,9 @@
 
 ## My projects
 
-### 🍁 [My portfolio](https://arualvivan.com)
+### 🍁 [Notion Portfolio]()
 
-Here you can find all the highlights of my academic and professional journey. 
+Notion Portfolio was born based on Nitin Ranganath‘s VsCode Portfolio idea. You can create dynamic pages based on your needs, with a pallet of Notion components available. 
 It's a Notion-based plataform. 
 
 ### 👩🏼‍🦽 [AcessiWeb](https://acessiweb.vercel.app/)
@@ -23,10 +23,6 @@ It's a Notion-based plataform.
 AcessiWeb is a web plataform that reunites a few acessibility guidelines in a easy and friendly way, making it easier for you developer to access and have knowledge of the necessary guidelines for your web projects. 
 
 Technical Design Document: [TDD AcessiWeb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
-
-### 🗓️ [Tokyuu](https://countdown.arualvivan.com)
-
-Take track of important dates :)
 
 ## Contact me
 
