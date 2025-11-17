@@ -13,7 +13,7 @@
 
 ## My projects
 
-### 🍁 [Notion Portfolio]()
+### 🍁 [Notion Portfolio](https://notionportfolio.arualvivan.com)
 
 Notion Portfolio was born based on Nitin Ranganath‘s VsCode Portfolio idea. You can create dynamic pages based on your needs, with a pallet of Notion components available. 
 It's a Notion-based plataform. 
