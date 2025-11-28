@@ -31,7 +31,7 @@ Technical Design Document: [TDD AcessiWeb](https://kind-parent-217.notion.site/T
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,supabase,firebase"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,supabase,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
