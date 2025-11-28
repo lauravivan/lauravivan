@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=35&duration=1500&pause=1000&color=781AF7&width=435&lines=Hi%2C+I'm+Laura+%E2%98%83%EF%B8%8F)](https://git.io/typing-svg)
 
-## About me
+I'm a passionate Web Developer with a solid base in Front-End. I'm willing to become a great Full-Stack (mid-level) Web Developer
+
+## What I've been doing 
 - 🎓 Information Systems graduate at Instituto Federal de Santa Catarina (IFSC).
 
 - 🩺 Participated in a university extension project to develop a web application that automates the triage process in health centers and hospitals using the Django framework.
@@ -9,7 +11,7 @@
 
 - 💵 Additionally, as a contractor, I developed a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API. Also participated in the development of Estudos Arquivados project, a website using arquivo.pt API to filter results based on Portuguese students’ academic year and their corresponding subjects. This project utilizes OpenAI’s LLM to identify words and expressions related to the user’s input and apply them as filters in the API to achieve more accurate results.
 
-- 🦊 In my personal projects, I built a portfolio using Notion as a base, leveraging the Vue.js framework. I also started small projects to improve my skills in React.js and TypeScript.
+- 🦊 In my personal projects, I built a portfolio package using Notion as a base, leveraging the Vue.js framework. I also started small projects to improve my skills in React.js and TypeScript.
 
 ## My projects
 
