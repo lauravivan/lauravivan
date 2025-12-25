@@ -28,7 +28,7 @@ Technical Design Document: [TDD AcessiWeb](https://kind-parent-217.notion.site/T
 
 ### 🐧 [Yoko!](https://yoko.arualvivan.com/)
 
-Yoko! let you tracker important events and recurring actions.
+Yoko! lets you track important events and recurring actions.
 
 ## Stack
 
