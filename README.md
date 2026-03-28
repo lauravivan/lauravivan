@@ -18,11 +18,11 @@ I'm a passionate Web Developer with a solid base in Front-End. I'm willing to be
 ### 🪼 [Notion Portfolio](https://notionportfolio.arualvivan.com)
 
 Notion Portfolio was born based on Nitin Ranganath‘s VsCode Portfolio idea. You can create dynamic pages based on your needs, with a pallet of Notion components available. 
-It's a Notion-based plataform. 
+It's a Notion-based platform. 
 
 ### 👩🏼‍🦽 [AcessiWeb](https://acessiweb.vercel.app/)
 
-AcessiWeb is a web plataform that reunites a few acessibility guidelines in a easy and friendly way, making it easier for you developer to access and have knowledge of the necessary guidelines for your web projects. 
+AcessiWeb is a web platform that reunites a few acessibility guidelines in a easy and friendly way, making it easier for you developer to access and have knowledge of the necessary guidelines for your web projects. 
 
 Technical Design Document: [TDD AcessiWeb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
 
