@@ -11,6 +11,8 @@ I'm a passionate Web Developer with a solid base in Front-End. I'm willing to be
 
 - 💵 Additionally, as a contractor, I developed a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API. Also participated in the development of Estudos Arquivados project, a website using arquivo.pt API to filter results based on Portuguese students’ academic year and their corresponding subjects. This project utilizes OpenAI’s LLM to identify words and expressions related to the user’s input and apply them as filters in the API to achieve more accurate results.
 
+- 🏳️‍🌈 Participated and became a Front-end Tech Lead at Lacrei Saúde, a social-impact health tech that connects the LGBTQIAPN+ community with inclusive, qualified healthcare professionals. 
+
 - 🦊 In my personal projects, I built a portfolio package using Notion as a base, leveraging the Vue.js framework. I also started small projects to improve my skills in React.js and TypeScript.
 
 ## My projects
