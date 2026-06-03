@@ -36,24 +36,28 @@ Yoko! lets you track important events and recurring actions.
 
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,supabase,firebase"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,typescript,python"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,nextjs,sass,tailwind"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,sass,jest,vitest,firebase"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,supabase,firebase,jest"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postgres"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & Devops:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,docker,gcp,githubactions"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,github,bitbucket"/></td>
     </tr>
 </table>
 
@@ -63,6 +67,7 @@ Yoko! lets you track important events and recurring actions.
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/vivanlaura)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lauvivang@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/arualvivan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@lauvivang)
 
 <div>
   <img alt="Hora-de-aventura-gif" height="150" width="150" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
