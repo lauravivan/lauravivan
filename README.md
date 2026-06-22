@@ -17,7 +17,7 @@ I'm a passionate Web Developer with a solid base in Front-End. I'm willing to be
 
 ## My projects
 
-### 🪼 [Notion Portfolio](https://notionportfolio.arualvivan.com)
+### ☕ [Notion Portfolio](https://notionportfolio.arualvivan.com)
 
 Notion Portfolio was born based on Nitin Ranganath‘s VsCode Portfolio idea. You can create dynamic pages based on your needs, with a pallet of Notion components available. 
 It's a Notion-based platform. 
@@ -28,7 +28,7 @@ AcessiWeb is a web platform that reunites a few acessibility guidelines in a eas
 
 Technical Design Document: [TDD AcessiWeb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
 
-### 🐧 [Yoko!](https://yoko.arualvivan.com/)
+### 🪼 [Yoko!](https://yoko.arualvivan.com/)
 
 Yoko! lets you track important events and recurring actions.
 
