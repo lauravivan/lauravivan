@@ -7,7 +7,7 @@ I'm a passionate Web Developer with a solid base in Front-End. I'm willing to be
 
 - 🩺 Participated in a university extension project to develop a web application that automates the triage process in health centers and hospitals using the Django framework.
 
-- 👩‍🦯‍➡️ Developed a web system to simplify the understanding of WCAG accessibility guidelines. The system also implements some of these guidelines, improving accessibility for a portion of users.
+- 👩‍🦯‍➡️ Developed a web system named [AcessiWeb](https://acessiweb.vercel.app/) to simplify the understanding of WCAG accessibility guidelines. The system also implements some of these guidelines, improving accessibility for a portion of users. Technical Design Document: [TDD AcessiWeb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
 
 - 💵 Additionally, as a contractor, I developed a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API. Also participated in the development of Estudos Arquivados project, a website using arquivo.pt API to filter results based on Portuguese students’ academic year and their corresponding subjects. This project utilizes OpenAI’s LLM to identify words and expressions related to the user’s input and apply them as filters in the API to achieve more accurate results.
 
@@ -22,16 +22,13 @@ I'm a passionate Web Developer with a solid base in Front-End. I'm willing to be
 Notion Portfolio was born based on Nitin Ranganath‘s VsCode Portfolio idea. You can create dynamic pages based on your needs, with a pallet of Notion components available. 
 It's a Notion-based platform. 
 
-### 👩🏼‍🦽 [AcessiWeb](https://acessiweb.vercel.app/)
-
-AcessiWeb is a web platform that reunites a few acessibility guidelines in a easy and friendly way, making it easier for you developer to access and have knowledge of the necessary guidelines for your web projects. 
-
-Technical Design Document: [TDD AcessiWeb](https://kind-parent-217.notion.site/TDD-1b1fcc794298803a9903faa23e46a487?pvs=74)
-
 ### 🪼 [Yoko!](https://yoko.arualvivan.com/)
 
 Yoko! lets you track important events and recurring actions.
 
+### 🐕 [Koda](https://koda.arualvivan.com/)
+
+Koda reunites links about Web & Tech World and some other cool stuff
 --
 
 You can contact me via [email](mailto:lauvivang@gmail.com)
