@@ -13,22 +13,7 @@ I'm a passionate Web Developer with a solid base in Front-End. I'm willing to be
 
 - 🏳️‍🌈 Participated and became a Front-end Tech Lead at Lacrei Saúde, a social-impact health tech that connects the LGBTQIAPN+ community with inclusive, qualified healthcare professionals. 
 
-- 🦊 I've also built some side projects that are listed below
-
-## My projects
-
-### ☕ [Notion Portfolio](https://notionportfolio.arualvivan.com)
-
-Notion Portfolio was born based on Nitin Ranganath‘s VsCode Portfolio idea. You can create dynamic pages based on your needs, with a pallet of Notion components available. 
-It's a Notion-based platform. 
-
-### 🪼 [Yoko!](https://yoko.arualvivan.com/)
-
-Yoko! lets you track important events and recurring actions.
-
-### 🐕 [Koda](https://koda.arualvivan.com/)
-
-Koda reunites links about Web & Tech World and some other cool stuff
+- 🦊 I've also built some side projects such as [Notion-portfolio](https://notionportfolio.arualvivan.com), [Yoko!](https://yoko.arualvivan.com/) and [Koda](https://koda.arualvivan.com/).
 
 --
 
