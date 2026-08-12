@@ -13,7 +13,7 @@ I'm a passionate Web Developer with a solid base in Front-End. I'm willing to be
 
 - 🏳️‍🌈 Participated and became a Front-end Tech Lead at Lacrei Saúde, a social-impact health tech that connects the LGBTQIAPN+ community with inclusive, qualified healthcare professionals. 
 
-- 🦊 I've also built some personal projects that are listed below
+- 🦊 I've also built some side projects that are listed below
 
 ## My projects
 
